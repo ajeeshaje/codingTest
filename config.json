@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017",
+    "secret": "Enter the Secret code for JWt Token, it can be any string",
+    "emailFrom": "info@example.com",
+    "smtpOptions": {
+        "host": "info@example.com",
+        "port": 587,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
